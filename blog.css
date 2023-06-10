@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Indie+Flower&family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Indie+Flower&family=Permanent+Marker&family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Indie+Flower&family=Lilita+One&family=Permanent+Marker&family=Russo+One&display=swap');
+body{
+    background-image: url(./tufimg/1146593.jpg);
+}
+h1{
+    font-family: 'Russo One', sans-serif;
+}
+h2{
+    font-family: 'Permanent Marker', cursive;
+}
+ p{
+    font-family: 'Lilita One', cursive;
+ }    
